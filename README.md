@@ -13,6 +13,7 @@ Bem-vindo ao meu portfólio! Sou um estudante apaixonado por tecnologia em busca
 
 - **Tecnologo em Análise e Desenvolvimento de Sistemas** - UNIP (2023)
 - **Pós Graduação em inteligência artificial para devs** - FIAP (2024)
+- **Pós Graduação em Full Stack Developer** - FIAP (2025)
 
 ## Experiência
 
