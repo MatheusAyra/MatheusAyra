@@ -23,6 +23,7 @@ Bem-vindo ao meu portfólio! Sou um estudante apaixonado por tecnologia em busca
 - Participação em reuniões de alinhamento com equipes internas e clientes;
 - Suporte técnico e acompanhamento pós-implantação.
 
+
 - **Analista de Plataforma** - FIAP (2023 - 2025)
 - Apoiar na elaboração, acompanhamento e controle da gestão de tempo e status dos projetos;
 - Propor melhorias para processos internos;
