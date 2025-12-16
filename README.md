@@ -16,6 +16,7 @@ Bem-vindo ao meu portfólio! Sou um estudante apaixonado por tecnologia em busca
 - **Pós Graduação em Full Stack Developer** - FIAP (2025)
 
 ## Experiência
+
 - **Técnico de Serviços de Implantação de software** - TOTVS (Atualmente)
 - Apoio na implantação e configuração de sistemas de gestão (ERP TOTVS);
 - Levantamento de requisitos e entendimento das necessidades do cliente;
@@ -23,6 +24,7 @@ Bem-vindo ao meu portfólio! Sou um estudante apaixonado por tecnologia em busca
 - Participação em reuniões de alinhamento com equipes internas e clientes;
 - Suporte técnico e acompanhamento pós-implantação.
 
+ 
 
 - **Analista de Plataforma** - FIAP (2023 - 2025)
 - Apoiar na elaboração, acompanhamento e controle da gestão de tempo e status dos projetos;
@@ -30,6 +32,7 @@ Bem-vindo ao meu portfólio! Sou um estudante apaixonado por tecnologia em busca
 - Participar de reuniões com os demais times para alinhamento;
 - Visão analítica para antecipar e resolver problemas;
 - Implementação de ferramentas de gestão de projetos.
+
 
 ## Contato
 
